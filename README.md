@@ -1,1 +1,1 @@
-# php_template
+# VANILLA PHP FRONTEND CODEBASE
